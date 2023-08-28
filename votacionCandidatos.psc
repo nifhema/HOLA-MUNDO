@@ -1,5 +1,5 @@
 Algoritmo votacionCandidatos
-	Definir massa,bulrich,milei,cantGanador,verificador Como Entero
+	Definir candidato_1,bulrich,milei,cantGanador,verificador Como Entero
 	Definir ganadorFrase,candidatoFrase1,candidatoFrase2,candidatoFrase3 Como Caracter
 	Para i<-1 Hasta 1000000 Hacer
 		
